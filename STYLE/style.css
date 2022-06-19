@@ -1,0 +1,9 @@
+h1 {
+    color: tomato;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
